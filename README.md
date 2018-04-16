@@ -1,6 +1,4 @@
-# gitchep-Git
-
-Nơi lưu trữ các kiến thức về Git
+# Ghi chép Git
 --------------------------------
 ## Cơ bản
 ### [1. Git là gì? Những lợi ích của việc dùng Git?](docs/git-overview-for-beginner.md)
